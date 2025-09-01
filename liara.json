@@ -1,0 +1,8 @@
+{
+  "app": "cranky-heisenberg-vwz-oolnh",
+  "port": 3000,
+  "build": {
+    "location": "iran"
+  },
+  "disks": []
+}
